@@ -47,7 +47,7 @@
 <!--   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  /> -->
 <!--   <img width="12" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> -->
-<!--   <img width="12" /> -->
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
